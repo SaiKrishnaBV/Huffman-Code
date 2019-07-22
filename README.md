@@ -12,7 +12,7 @@ ii:  If {p1,p2,p3,p4} are the probabilities corresponding to symbols {s1,s2,s3,s
 The output of the code is the following:<br/>
 i:   Minimum variance Huffman Code<br/>
 ii:  Average length of the code<br/>
-iii: Entropy of the system<br/>
+iii: Entropy of the source<br/>
 iv:  Variance of the code<br/>
 v:   Efficiency of the code.<br/>
 
