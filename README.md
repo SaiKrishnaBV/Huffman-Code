@@ -6,7 +6,7 @@ The output Huffman code will correspond to symbols in descending order of their 
 
 Working:<br/>
 i:   Run the File huffmanCode.py<br/>
-ii:  If {p1,p2,p3,p4} are the probabilities corresponding to {s1,s2,s3,s4},<br/> 
+ii:  If {p1,p2,p3,p4} are the probabilities corresponding to symbols {s1,s2,s3,s4},<br/> 
      give the input as [p1,p2,p3,p4] (not necessarily in ascending/descending order)<br/>
      <br/>
 The output of the code is the following:<br/>
