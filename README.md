@@ -5,7 +5,7 @@ Enter the list of probabilities to various symbols(binary) of the source.
 The output Huffman code will correspond to symbols in descending order of their probability.
 
 Working:
-i:   Run the File huffmanCode.py\\
+i:   Run the File huffmanCode.py\n
 ii:  If {p1,p2,p3,p4} are the probabilities corresponding to {s1,s2,s3,s4}, 
      give the input as [p1,p2,p3,p4] (not necessarily in ascending/descending order)
      
