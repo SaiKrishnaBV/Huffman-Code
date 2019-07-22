@@ -1,11 +1,11 @@
 # Huffman-Code
 This is an attempt to compute the minimum variance Huffman Code for a given source.
 
-Enter the list of probabilities to various symbols(binary) of the source. 
+Enter the list of probabilities to various symbols(binary) of the source. <br/>
 The output Huffman code will correspond to symbols in descending order of their probability.
 
 Working:
-i:   Run the File huffmanCode.py\n
+i:   Run the File huffmanCode.py<br/>
 ii:  If {p1,p2,p3,p4} are the probabilities corresponding to {s1,s2,s3,s4}, 
      give the input as [p1,p2,p3,p4] (not necessarily in ascending/descending order)
      
